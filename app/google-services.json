@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436704501587",
+    "project_id": "notepaddocdoc-99696",
+    "storage_bucket": "notepaddocdoc-99696.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436704501587:android:05f533f5f0f7c6a94d0ba6",
+        "android_client_info": {
+          "package_name": "com.herorickystudios.notepaddocdoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436704501587-vm3tm7b2m8f8qhv8m45futkg66v1kt36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwAPwaCy2F518BqFO2PxpeVbhvbuHA9d8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436704501587-vm3tm7b2m8f8qhv8m45futkg66v1kt36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
